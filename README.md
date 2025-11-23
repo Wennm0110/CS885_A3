@@ -81,10 +81,11 @@ To reproduce the results, run the corresponding Python scripts:
 python DQN.py 
 # Run DRQN solution
 python DRQN.py
-
+```
 **Part 2: C51**
 ```bash
 # Run baseline
 python DQN.py 
-# Run DRQN solution
+# Run C51 solution
 python C51.py
+```
